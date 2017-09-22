@@ -1,2 +1,0 @@
-# gshop
-gshop project
